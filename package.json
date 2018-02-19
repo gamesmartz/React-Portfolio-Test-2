@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-v3-node-server",
+  "version": "1.0.0",
+  "description": "Port v.3",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matt Norkaitis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  }
+}
